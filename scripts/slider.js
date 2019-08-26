@@ -39,6 +39,3 @@ for (let elem of document.querySelectorAll('.dot-navigation')) {
 };
 
 // автоматическое слайд-шоу
-setInterval(function () {
-    showSlides(--INDEX);
-}, 10000);
