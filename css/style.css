@@ -122,7 +122,15 @@ html {
     font-size: 18px;
     color: var(--color-text);
 }
-
+.navigate{
+    flex-basis: 0;
+}
+.mob-menu{
+    display: none;
+    background-color: #FFFFFF;
+    border: none;
+    font-size: 40px;
+}
 .logo__title{
     font-size: 233px;
     height: 132px;
@@ -454,6 +462,7 @@ html {
     bottom: 30px;
     left: 35%;
     display: none;
+
 }
 .plus{
     position: absolute;
@@ -504,13 +513,20 @@ html {
     bottom: 0;
     right: 25%;
     color:#fff;
-    background-color: #000;
     border:none;
-    padding-top: 20px;
-    padding-bottom: 15px;
+    border-bottom: 40px solid black;
+    border-left: 41px solid transparent;
+    border-right: 40px solid transparent;
+    height: 0;
+    width: 200px;
+    background-color: unset;
+    font-size: 13px;
+    font-family: Lato;
+    font-weight: bold;
+    line-height: 40px;
 }
 .color-change{
-    background-color: #f0975c;
+    border-bottom-color: #f0975c;
 }
 .products_collect{
     padding-bottom: 14px;
@@ -603,6 +619,7 @@ html {
     color:#606060;
     font-family: "Lato";
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     border-bottom: 2px solid #606060;
     position: relative;
@@ -662,4 +679,49 @@ html {
 }
 .footer__img{
     margin-bottom: 80px;
+}
+.mail{
+    position: relative;
+    width: 360px;
+
+}
+.mail__input{
+    width: 100%;
+    height: 45px;
+    border: 1px solid #fff;
+    outline: none;
+    color: #6a6a6a;
+    background-color: #141414;
+    border: 1px solid #606060;
+}
+.mail__button {
+    position: absolute;
+    top: 5px;
+    right: 4px;
+    width: 85px;
+    height: 33px;
+    background: #323030;
+    border: none;
+    cursor: pointer;
+    color:#fff;
+}
+.to-begin{
+    background-color: #000;
+    position:fixed;
+    color: white;
+    bottom: 20px;
+    right: 53px;
+    opacity: .6;
+    z-index: 2;
+    border: none;
+    border-radius: 3px;
+    padding: 11px;
+
+}
+
+.to-begin:hover {
+    opacity: 1;
+}
+.show{
+    display: block;
 }

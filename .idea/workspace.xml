@@ -2,11 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fd38326-1a22-4832-9f5d-3b0d80f3d2a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mobile360.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pad1024.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desing/icons/gamburger.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/slider.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desing/images/American Express.png" beforeDir="false" afterPath="$PROJECT_DIR$/desing/images/AmericanExpress.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desing/images/Brands/Brand 1.png" beforeDir="false" afterPath="$PROJECT_DIR$/desing/images/Brands/Brand1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desing/images/Brands/Brand 2.png" beforeDir="false" afterPath="$PROJECT_DIR$/desing/images/Brands/Brand2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desing/images/Brands/Brand 3.png" beforeDir="false" afterPath="$PROJECT_DIR$/desing/images/Brands/Brand3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desing/images/Brands/Brand 4.png" beforeDir="false" afterPath="$PROJECT_DIR$/desing/images/Brands/Brand4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desing/images/Brands/Brand 5.png" beforeDir="false" afterPath="$PROJECT_DIR$/desing/images/Brands/Brand5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desing/images/Brands/Brand 6.png" beforeDir="false" afterPath="$PROJECT_DIR$/desing/images/Brands/Brand6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desing/images/Collection/Layer 1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/desing/images/Collection/Layer1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desing/images/Collection/Layer 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/desing/images/Collection/Layer2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desing/images/Collection/Layer 21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/desing/images/Collection/Layer21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desing/images/Collection/Layer 22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/desing/images/Collection/Layer22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desing/images/Collection/Layer 23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/desing/images/Collection/Layer23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desing/images/Collection/Layer 24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/desing/images/Collection/Layer24.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desing/images/Collection/Layer 3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/desing/images/Collection/Layer3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desing/images/Collection/Layer 4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/desing/images/Collection/Layer4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desing/images/Picked/Layer 1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/desing/images/Picked/Layer1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desing/images/Picked/Layer 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/desing/images/Picked/Layer2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desing/images/Picked/Layer 3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/desing/images/Picked/Layer3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desing/images/Picked/Layer 4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/desing/images/Picked/Layer4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desing/images/Picked/Layer 5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/desing/images/Picked/Layer5.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/slider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/script.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,26 +60,14 @@
     <favorites_list name="Shophia.com" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.57586515">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="331">
-                  <caret line="166" column="66" selection-start-line="166" selection-start-column="66" selection-end-line="166" selection-end-column="66" />
-                  <folding>
-                    <element signature="n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#3;n#section#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#3;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#1;n#section#1;n#div#3;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#footer#0;n#div#4;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#1;n#footer#0;n#div#4;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#2;n#footer#0;n#div#4;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#section#0;n#footer#0;n#div#4;n#main#0;n#body#0;n#html#0;n#!!top" />
-                  </folding>
+                <state relative-caret-position="1853">
+                  <caret line="169" column="60" selection-start-line="169" selection-start-column="60" selection-end-line="169" selection-end-column="60" />
                 </state>
               </provider>
             </entry>
@@ -73,24 +84,45 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="269">
-                  <caret line="456" column="1" lean-forward="true" selection-start-line="456" selection-start-column="1" selection-end-line="456" selection-end-column="1" />
+                <state relative-caret-position="153">
+                  <caret line="84" column="13" lean-forward="true" selection-start-line="84" selection-end-line="84" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css/mobile480.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="306">
+                  <caret line="18" selection-start-line="18" selection-end-line="18" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/scripts/script.js">
+            <entry file="file://$PROJECT_DIR$/css/mobile360.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="357">
-                  <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+                <state relative-caret-position="388">
+                  <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
                 </state>
               </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/scripts/script.js">
+              <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
         </leaf>
       </split-second>
     </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -102,19 +134,14 @@
         <option value="$PROJECT_DIR$/css/slider.css" />
         <option value="$PROJECT_DIR$/desing/images/Shophia.svg" />
         <option value="$PROJECT_DIR$/desing/images/Shophia1.svg" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/pad1024.css" />
+        <option value="$PROJECT_DIR$/css/mobile.css" />
+        <option value="$PROJECT_DIR$/desing/icons/up-arrow.svg" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/scripts/script.js" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/Shophia.com.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/css/mobile480.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/mobile360.css" />
       </list>
     </option>
   </component>
@@ -145,6 +172,17 @@
             <path>
               <item name="Shophia.com" type="b2602c69:ProjectViewProjectNode" />
               <item name="Shophia.com" type="462c0819:PsiDirectoryNode" />
+              <item name="desing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shophia.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shophia.com" type="462c0819:PsiDirectoryNode" />
+              <item name="desing" type="462c0819:PsiDirectoryNode" />
+              <item name="icons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shophia.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shophia.com" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -157,6 +195,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -193,16 +232,23 @@
       <workItem from="1566824706476" duration="5444000" />
       <workItem from="1566834307012" duration="1865000" />
       <workItem from="1566844044331" duration="6479000" />
+      <workItem from="1566851050117" duration="1034000" />
+      <workItem from="1566929613130" duration="6005000" />
+      <workItem from="1567016345829" duration="126000" />
+      <workItem from="1567016473403" duration="6731000" />
+      <workItem from="1567101968022" duration="3888000" />
+      <workItem from="1567243827911" duration="10249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36055000" />
+    <option name="totallyTimeSpent" value="64088000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991511" visible="true" weight="0.16187595" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991511" visible="true" weight="0.14750378" />
       <window_info id="Structure" order="1" sideWeight="0.5008489" side_tool="true" weight="0.14674735" />
       <window_info id="Favorites" order="2" sideWeight="0.5008489" side_tool="true" weight="0.14674735" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -215,7 +261,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3293718" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.15959252" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.24957556" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -244,9 +290,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/Shopia-master/js/script.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/fonts.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -254,39 +297,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/Shopia-master/js/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/desing/images/Shophia.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/desing/icons/up-arrow.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/pad1024.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="456" column="1" lean-forward="true" selection-start-line="456" selection-start-column="1" selection-end-line="456" selection-end-column="1" />
+        <state relative-caret-position="153">
+          <caret line="84" column="13" lean-forward="true" selection-start-line="84" selection-end-line="84" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/mobile480.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="166" column="66" selection-start-line="166" selection-start-column="66" selection-end-line="166" selection-end-column="66" />
-          <folding>
-            <element signature="n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#section#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#section#1;n#div#3;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#footer#0;n#div#4;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#footer#0;n#div#4;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#footer#0;n#div#4;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#0;n#footer#0;n#div#4;n#main#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="1853">
+          <caret line="169" column="60" selection-start-line="169" selection-start-column="60" selection-end-line="169" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/script.js">
+    <entry file="file://$PROJECT_DIR$/css/mobile360.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+        <state relative-caret-position="388">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
         </state>
       </provider>
     </entry>

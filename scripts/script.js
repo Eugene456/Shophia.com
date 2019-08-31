@@ -20,3 +20,8 @@ hoverProduct.on('mouseout', function() {
     $(this).find("button").removeClass('block');
     $(this).find(".plus").removeClass('block');
 });
+
+
+
+
+

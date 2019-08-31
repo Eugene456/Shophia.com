@@ -8,6 +8,10 @@
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/fonts.css">
         <link rel="stylesheet" href="css/slider.css">
+        <link rel="stylesheet"  href="css/pad1024.css" media='(max-width:1024px)'>
+        <link rel="stylesheet"  href="css/mobile.css" media='(max-width:770px)'>
+        <link rel="stylesheet"  href="css/mobile480.css" media='(max-width:480px)'>
+        <link rel="stylesheet"  href="css/mobile360.css" media='(max-width:360px)'>
         <script defer src="scripts/slider.js"></script>
         <script defer src="scripts/jquery.min.js"></script>
         <script defer src="scripts/script.js"></script>
@@ -41,17 +45,18 @@
                     <li class="nav__item"><a class="nav__link" href="#">Pages</a></li>
                 </ul>
             </nav>
-
-                <a class="logo__link" href="index.html">
+            <button class="mob-menu" onclick="document.querySelector('.nav').classList.toggle('show'); document.querySelector('body').classList.toggle('hidden')">
+                <svg class=" inline-icon mobile__image">
+                    <use xlink:href="desing/icons/gamburger.svg#gamb"></use>
+                </svg>
+            </button>
+            <a class="logo__link" href="index.html">
                     <svg class="inline-icon logo__title">
                             <use xlink:href="desing/images/Shophia1.svg#Shophia"></use>
                     </svg>
                 </a>
-
-
-
             <div class="wraper">
-                <div class="social">
+                <div class="social social_header">
                     <a class="social__link" href="#">
                         <svg class="inline-icon social__icon">
                             <use xlink:href="desing/icons/facebook.svg#fb"></use>
@@ -153,26 +158,26 @@
                         <h2 class="head-products"> Hand Picked</h2>
                     </div>
                     <div class="products__wrap-image">
-                        <div>
-                            <article class="products__item products__item_first">
-                                <img class="products__img" src="desing/images/Picked/Layer 1.jpg" alt="photo-product1">
+                        <div class="wrap-products-left">
+                            <section class="products__item products__item_first">
+                                <img class="products__img" src="desing/images/Picked/Layer1.jpg" alt="photo-product1">
                                 <div class="products__content">
                                     <img  class="plus" src="desing/images/Picked/plus.png" alt="plus">
                                     <button class="products__button">SHOP NOW</button>
                                 </div>
-                            </article>
-                            <article class="products__item products__item_second">
-                                <img src="desing/images/Picked/Layer 2.jpg" alt="photo-product1">
+                            </section>
+                            <section class="products__item products__item_second">
+                                <img class="products__image" src="desing/images/Picked/Layer2.jpg" alt="photo-product1">
                                 <div class="products__content">
                                     <h2 class="products__item2-head">DISCOUNT 30%</h2>
                                     <p class="product-item2-text">JEWELLERY PRODUCTS</p>
                                     <img  class="plus" src="desing/images/Picked/plus.png" alt="plus">
                                     <button class="products__button">SHOP NOW</button>
                                 </div>
-                            </article>
+                            </section>
                         </div>
                             <article class="products__item products__item_third">
-                             <img src="desing/images/Picked/Layer 3.jpg" alt="photo-product1">
+                             <img class="products__image" src="desing/images/Picked/Layer3.jpg" alt="photo-product1">
                             <div class="products__content">
                                 <h2 class="products__item3-head">PARIS Hilton</h2>
                                 <p class="products__item3-text">COLLECTION</p>
@@ -181,9 +186,9 @@
                             </div>
                             </article>
                          
-                        <div>
+                        <div class="wrap-products-right">
                             <article class="products__item products__item_fourth">
-                                <img src="desing/images/Picked/Layer 4.jpg" alt="photo-product1">
+                                <img class="products__image" src="desing/images/Picked/Layer4.jpg" alt="photo-product1">
                                 <div class="products__content">
                                     <p class="product__p">50% <br> OFF</p>
                                     <img  class="plus" src="desing/images/Picked/plus.png" alt="plus">
@@ -192,7 +197,7 @@
                                 </div>
                             </article>
                             <article class="products__item products__item_fifth">
-                                <img src="desing/images/Picked/Layer 5.jpg" alt="photo-product1">
+                                <img class="products__image" src="desing/images/Picked/Layer5.jpg" alt="photo-product1">
                                 <div class="products__content">
                                     <img  class="plus" src="desing/images/Picked/plus.png" alt="plus">
                                     <button class="products__button">SHOP NOW</button>
@@ -201,7 +206,6 @@
                         </div>
                     </div>
                 </section>
-            </div>
             <div class="container">
                 <section class="products products_collect">
                     <div class="products__wrap-head">
@@ -209,38 +213,38 @@
                     </div>
                         <div class="products__wrap-image products__wrap-image_row">
                             <div class="product-item product-item_sale">
-                                <img class="product-item__image" src="desing/images/Collection/Layer 1.jpg" alt="collection-product1">
-                                <button class="product-item__button">+ ADD TO CARD</button>
+                                <img class="product-item__image" src="desing/images/Collection/Layer1.jpg" alt="collection-product1">
+                                <button class="product-item__button">+ ADD TO CART</button>
                             </div>
                             <div class="product-item">
-                                <img class="product-item__image" src="desing/images/Collection/Layer 2.jpg" alt="collection-product2">
-                                <button class="product-item__button">+ ADD TO CARD</button>
+                                <img class="product-item__image" src="desing/images/Collection/Layer2.jpg" alt="collection-product2">
+                                <button class="product-item__button">+ ADD TO CART</button>
                             </div>
                             <div class="product-item">
-                                <img class="product-item__image" src="desing/images/Collection/Layer 3.jpg" alt="collection-product3">
-                                <button class="product-item__button">+ ADD TO CARD</button>
+                                <img class="product-item__image" src="desing/images/Collection/Layer3.jpg" alt="collection-product3">
+                                <button class="product-item__button">+ ADD TO CART</button>
                             </div>
                             <div class="product-item product-item_sale">
-                                <img class="product-item__image" src="desing/images/Collection/Layer 4.jpg" alt="collection-product4">
-                                <button class="product-item__button">+ ADD TO CARD</button>
+                                <img class="product-item__image" src="desing/images/Collection/Layer4.jpg" alt="collection-product4">
+                                <button class="product-item__button">+ ADD TO CART</button>
                             </div>
                         </div>
                         <div class="products__wrap-image">
                             <div class="product-item product-item_sale">
-                                <img class="product-item__image" src="desing/images/Collection/Layer 21.jpg" alt="collection-product1">
-                                <button class="product-item__button">+ ADD TO CARD</button>
+                                <img class="product-item__image" src="desing/images/Collection/Layer21.jpg" alt="collection-product1">
+                                <button class="product-item__button">+ ADD TO CART</button>
                             </div>
                             <div class="product-item ">
-                                <img  class="product-item__image" src="desing/images/Collection/Layer 22.jpg" alt="collection-product2">
-                                <button class="product-item__button">+ ADD TO CARD</button>
+                                <img  class="product-item__image" src="desing/images/Collection/Layer22.jpg" alt="collection-product2">
+                                <button class="product-item__button">+ ADD TO CART</button>
                             </div>
                             <div class="product-item">
-                                <img class="product-item__image" src="desing/images/Collection/Layer 23.jpg" alt="collection-product3">
-                                <button class="product-item__button">+ ADD TO CARD</button>
+                                <img class="product-item__image" src="desing/images/Collection/Layer23.jpg" alt="collection-product3">
+                                <button class="product-item__button">+ ADD TO CART</button>
                             </div>
                             <div class="product-item product-item_sale">
-                                <img class="product-item__image" src="desing/images/Collection/Layer 24.jpg" alt="collection-product4">
-                                <button class="product-item__button">+ ADD TO CARD</button>
+                                <img class="product-item__image" src="desing/images/Collection/Layer24.jpg" alt="collection-product4">
+                                <button class="product-item__button">+ ADD TO CART</button>
                             </div>
                         </div>
                 </section>
@@ -249,12 +253,13 @@
                         <h2 class="head-products"> Our Brand</h2>
                     </div>
                     <div class="products__wrap-image products__wrap-image_brand">
-                        <img src="desing/images/Brands/Brand 1.png" alt="brand 1">
-                        <img src="desing/images/Brands/Brand 2.png" alt="brand 2">
-                        <img src="desing/images/Brands/Brand 3.png" alt="brand 3">
-                        <img src="desing/images/Brands/Brand 4.png" alt="brand 4">
-                        <img src="desing/images/Brands/Brand 5.png" alt="brand 5">
-                        <img src="desing/images/Brands/Brand 6.png" alt="brand 6">
+                        
+                        <img class="brand-img" src="desing/images/Brands/Brand1.png" alt="brand 1">
+                        <img class="brand-img" src="desing/images/Brands/Brand2.png" alt="brand 2">
+                        <img class="brand-img" src="desing/images/Brands/Brand3.png" alt="brand 3">
+                        <img class="brand-img" src="desing/images/Brands/Brand4.png" alt="brand 4">
+                        <img class="brand-img" src="desing/images/Brands/Brand5.png" alt="brand 5">
+                        <img class="brand-img" src="desing/images/Brands/Brand6.png" alt="brand 6">
                     </div>
                 </section>
             </div>    
@@ -287,6 +292,11 @@
                 </div>
             </section>
             </div>
+            <button class="to-begin">
+                <svg class="inline-icon ">
+                    <use xlink:href="desing/icons/up-arrow.svg#up-arrow"></use>
+                </svg>
+            </button>
             <div class="footer-wraper">
             <footer class="container footer">
                 <div class="footer__block footer__block_left">
@@ -328,7 +338,7 @@
                         <li class="footer__item">Store Location</li>
                     </ul>
                 </div>
-                <section class="footer__block">
+                <section class="footer__block footer__block_tab">
                     <h3 class="footer__head">STAY CONNECTED</h3>
                     <div class="social social_footer">
                         <a class="social__link" href="#">
@@ -351,9 +361,17 @@
                                 <use xlink:href="desing/icons/Instagram.svg#insta"></use>
                             </svg>
                         </a>
+
                     </div>
                     <h3 class="footer__head">SUBSCRIBE <span class="in">in</span> OUR NEWS LETTER</h3>
-                    <div></div>
+                    <div>
+                        <form class="mail">
+                            <input type="text" class="mail__input" value="Enter Your Email Adress">
+                            <button type="submit" class="mail__button" title="Найти">
+                                Subcribe
+                            </button>
+                        </form>
+                    </div>
                 </section>
             </footer>
             </div>
@@ -364,9 +382,8 @@
                     <p class="footer__text_last-row">Designed by MoccaLabs.com</p>
                     <img class="footer__img" src="desing/images/Visa.png" alt="Visa">
                     <img class="footer__img" src="desing/images/Mastercard.png" alt="Mastercard">
-                    <img class="footer__img" src="desing/images/American Express.png" alt="American Express">
+                    <img class="footer__img" src="desing/images/AmericanExpress.png" alt="American Express">
                     <img class="footer__img" src="desing/images/Discover.png" alt="Discover">
-
                 </div>
             </div>
         </main>

@@ -1,0 +1,29 @@
+.call{
+    display: none;
+}
+.header-menu{
+    margin-right: 0;
+}
+.header-menu__item:not(:last-child){
+    width: 128px;
+}
+#slider-container{
+    display: none;
+}
+.header:after{
+    display: none;
+}
+.head-products{
+    padding: 0;
+}
+
+.products__img{
+    width: 100%;
+}
+.product-item__button{
+    right: 17%;
+}
+.products__wrap-head::before,
+.products__wrap-head::after{
+    display: none;
+}
