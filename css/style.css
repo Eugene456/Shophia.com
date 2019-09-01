@@ -100,7 +100,7 @@ html {
     border-top: 60px solid #fff;
 }
 .navigate{
-    flex-basis: 26%;
+    flex-basis: 26.5%;
     margin-top: -24px;
 }
 .nav{
@@ -122,9 +122,7 @@ html {
     font-size: 18px;
     color: var(--color-text);
 }
-.navigate{
-    flex-basis: 0;
-}
+
 .mob-menu{
     display: none;
     background-color: #FFFFFF;
@@ -424,9 +422,9 @@ html {
     font-family: Lato;
     font-weight: bold;
     position: absolute;
-    left: 30%;
+    left: 25%;
     top: 12%;
-    font-size: 20px;
+    font-size: 24px;
 }
 .product-item2-text{
     font-family: Lato;
@@ -641,6 +639,11 @@ html {
     bottom: -11px;
     border-top: 9px solid #606060;
 }
+.footer__menu{
+    display: flex;
+    flex-basis: 49%;
+    justify-content: space-between;
+}
 .footer__block{
      margin-top: 70px;
     margin-bottom: 89px;
@@ -650,13 +653,26 @@ html {
 }
 .footer__head{
     color: #fff;
-    margin-bottom: 55px;
+    margin-bottom: 46px;
+    font-weight: bold;
+}
+.footer__head_connected{
+    margin-bottom: 60px;
+}
+.footer__head_last{
+    margin-bottom: 58px;
 }
 .footer__item:not(:last-child){
-    margin-bottom: 20px;
+    margin-bottom: 14px;
+}
+.footer__block_tab{
+    flex-basis: 40.5%;
 }
 .social_footer{
-    margin-bottom: 52px;
+    margin-bottom: 47px;
+}
+.social__link_footer{
+    margin-right: 13px;
 }
 .social__icon_white{
     color: #000;
@@ -665,15 +681,19 @@ html {
     font-size: 50px;
 }
 .in{
+    font-family: PlayfairDisplay;
     font-style: italic;
+
 }
 .footer__copy{
     color:#606060 ;
-    margin-top: -30px;
+    padding: 20px;
 }
-.footer__text{
-    margin-top: 30px;
+.footer__link{
+    text-decoration: none;
+    color: #737373;
 }
+
 .footer__text_last-row{
     margin-bottom: 30px;
 }
