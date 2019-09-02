@@ -8,7 +8,9 @@
     border-left: 100px solid transparent;
     border-right: 100px solid transparent;
 }
-
+.navigate{
+	flex-basis: 0;
+}
 .nav__item{
 	border-bottom: 1px solid #85827f;
 	padding: 30px;
@@ -109,7 +111,7 @@
 	flex-basis: 30%;
 }
 .footer__block_tab{
-	margin: 0 auto;
+
 	margin-bottom: 15px;
 }
 

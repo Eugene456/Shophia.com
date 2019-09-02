@@ -7,6 +7,10 @@
 .header-menu__item:not(:last-child){
     width: 128px;
 }
+.select{
+    margin-left: 0;
+    margin-right: 0;
+}
 #slider-container{
     display: none;
 }
@@ -26,4 +30,11 @@
 .products__wrap-head::before,
 .products__wrap-head::after{
     display: none;
+}
+.footer__menu{
+    flex-basis: 99%;
+}
+.footer__block_tab{
+    margin: 0 auto;
+    margin-bottom: 15px;
 }
